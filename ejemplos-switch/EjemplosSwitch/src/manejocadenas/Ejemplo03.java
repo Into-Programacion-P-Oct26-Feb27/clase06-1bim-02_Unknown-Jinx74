@@ -44,4 +44,5 @@ public class Ejemplo03 {
         System.out.printf("%s", cadenaFinal);
         
     }
-}sa
+}
+//String format sirve para ordenar cadenas de textos con argumentos de forma fija
